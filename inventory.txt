@@ -1,0 +1,7 @@
+Food,101,Fresh_Milk,80.0,15,3
+Food,102,Apple_Bag,120.0,20,6
+Food,103,Potato_Chips,60.0,40,180
+Clothing,201,Hooded_Sweater,850.0,15,M,Cotton
+Clothing,202,Denim_Jeans,1200.0,10,L,Denim
+Electronics,301,Gaming_Mouse,1500.0,12,12
+Electronics,302,Wireless_Keyboard,2200.0,8,24
